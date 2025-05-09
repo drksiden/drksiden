@@ -27,7 +27,7 @@ jobs:
           SHOW_PROJECTS: "false"          # Проекты (если не хотите их детализировать здесь)
           SHOW_EDITORS: "false"           # Редакторы кода
           SHOW_TIMEZONE: "false"          # Часовой пояс (обычно не нужен публично)
-          # SHOW_COMMIT: "false"          # Этот параметр про коммиты, а не специфику WakaTime
+          SHOW_COMMIT: "false"          # Этот параметр про коммиты, а не специфику WakaTime
           SHOW_LANGUAGE_PER_REPO: "false" # Языки по репозиториям (может быть очень многословно)
           SHOW_LOC_CHART: "false"         # Вы упоминали, что "белый таймлайн" (график LOC) не нравится
           SHOW_DAYS_OF_WEEK: "false"      # Статистика по дням недели (чтобы не перегружать)

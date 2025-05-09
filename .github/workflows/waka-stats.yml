@@ -17,16 +17,18 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           # --- Основные параметры для отображения ---
-          SHOW_LANGUAGE: "true"             # Показываем языки программирования
-          SHOW_TOTAL_CODE_TIME: "true"    # Показываем общее время кодинга (ключевая метрика WakaTime)
-          SHOW_UPDATED_DATE: "true"       # Показываем, когда статистика была обновлена
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_TIMEZONE: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_EDITORS: "true"
+          SHOW_OS: "true"
 
           # --- Отключаем для минимализма (исходя из вашего запроса и скриншота) ---
           SHOW_LINES_OF_CODE: "false"     # Количество строк кода; для WakaTime это может быть не так важно, как общее время
-          # SHOW_OS: "false"                # Операционные системы
+                        # Операционные системы
           SHOW_PROJECTS: "false"          # Проекты (если не хотите их детализировать здесь)
-          SHOW_EDITORS: "false"           # Редакторы кода
-          SHOW_TIMEZONE: "false"          # Часовой пояс (обычно не нужен публично)
+                    # Редакторы кода
+                    # Часовой пояс (обычно не нужен публично)
           SHOW_COMMIT: "false"          # Этот параметр про коммиты, а не специфику WakaTime
           SHOW_LANGUAGE_PER_REPO: "false" # Языки по репозиториям (может быть очень многословно)
           SHOW_LOC_CHART: "false"         # Вы упоминали, что "белый таймлайн" (график LOC) не нравится

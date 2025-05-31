@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 29 April 2025 - To: 29 May 2025
+From: 30 April 2025 - To: 30 May 2025
 
-Total Time: 40 hrs 11 mins
+Total Time: 40 hrs 13 mins
 
-TypeScript   27 hrs 52 mins  █████████████████░░░░░░░░   67.56 %
-Dart         9 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+TypeScript   27 hrs 54 mins  █████████████████░░░░░░░░   67.59 %
+Dart         9 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
 Other        1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 Bash         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```

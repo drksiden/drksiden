@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 16 May 2025 - To: 15 June 2025
+From: 17 May 2025 - To: 16 June 2025
 
 Total Time: 12 hrs
 

@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 17 May 2025 - To: 16 June 2025
+From: 18 May 2025 - To: 17 June 2025
 
-Total Time: 12 hrs
+Total Time: 10 hrs 17 mins
 
-TypeScript   6 hrs 49 mins   ██████████████░░░░░░░░░░░   55.85 %
-Dart         3 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+TypeScript   6 hrs 49 mins   ████████████████▒░░░░░░░░   64.99 %
+Dart         1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
